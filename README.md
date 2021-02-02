@@ -28,8 +28,7 @@ Ewentualnie pracuj z Github Desktop lub innym IDE i zrób prośbę o ściągnię
 ### Uwaga ###
 
 * Projekt powstał jedynie jako wsparcie dla telefonów Huawei przed 2018r
-* 
-* Najlepiej dodawać polecenia z modyfikatorem `native` do pakietu `pl.nightteam.blur.NativeWrapper` w `Blur-Server`
+* Wszelkie prawa zastrzeżone dla autora, możesz z tego projektu korzystać jedynie do celów prywatnych. Dla zastosowań komercyjnych wymagana jest zgoda autora.
 
 ### TODO ###
 
